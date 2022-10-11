@@ -1,1 +1,1 @@
-# Land-rate-prediction-using-ML-
+# House-rate-prediction-using-ML-
